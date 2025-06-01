@@ -1,6 +1,6 @@
 # Olá, eu sou Grégori Lima. 👋🤓 ##
 
-#### Graduado em Análise e Desenvolvimento de Sistemas. 📚👨‍💻📚 ####
+#### Graduado em Ciência da Computação pela Unisinos, Análise e Desenvolvimento de Sistemas pela Ftec e Redes de Computadores pela UCS. 📚👨‍💻📚 ####
 
 <div align="center">
   <a href="https://github.com/gregoriLima">
