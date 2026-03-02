@@ -1,6 +1,6 @@
 # Olá, eu sou Grégori Lima. 👋🤓 ##
 
-#### Graduado em Ciência da Computação pela Unisinos, 
+#### Graduado em Ciência da Computação pela Unisinos, ###
 ### Análise e Desenvolvimento de Sistemas pela Ftec, ### 
 ### Redes de Computadores pela UCS. 📚👨‍💻📚 ####
 
